@@ -1,0 +1,10 @@
+/Users/rexmorgan/Projects/src/codestock2018/complete/submission-api/bin/Debug/netcoreapp2.0/submission-api.deps.json
+/Users/rexmorgan/Projects/src/codestock2018/complete/submission-api/bin/Debug/netcoreapp2.0/submission-api.runtimeconfig.json
+/Users/rexmorgan/Projects/src/codestock2018/complete/submission-api/bin/Debug/netcoreapp2.0/submission-api.runtimeconfig.dev.json
+/Users/rexmorgan/Projects/src/codestock2018/complete/submission-api/bin/Debug/netcoreapp2.0/submission-api.dll
+/Users/rexmorgan/Projects/src/codestock2018/complete/submission-api/bin/Debug/netcoreapp2.0/submission-api.pdb
+/Users/rexmorgan/Projects/src/codestock2018/complete/submission-api/obj/Debug/netcoreapp2.0/submission-api.csproj.CoreCompileInputs.cache
+/Users/rexmorgan/Projects/src/codestock2018/complete/submission-api/obj/Debug/netcoreapp2.0/submission-api.AssemblyInfoInputs.cache
+/Users/rexmorgan/Projects/src/codestock2018/complete/submission-api/obj/Debug/netcoreapp2.0/submission-api.AssemblyInfo.cs
+/Users/rexmorgan/Projects/src/codestock2018/complete/submission-api/obj/Debug/netcoreapp2.0/submission-api.dll
+/Users/rexmorgan/Projects/src/codestock2018/complete/submission-api/obj/Debug/netcoreapp2.0/submission-api.pdb
